@@ -41,16 +41,6 @@ pip install -r requirements.txt
 python demo_from_excel.py --input data/Company_ABC_Claims_Data.xlsx
 ```
 
-## What PDFs does it handle?
-
-| PDF Type | Support |
-|----------|---------|
-| Text-based insurer reports (most common) | ✅ Full |
-| EOB (Explanation of Benefits) documents | ✅ Full |
-| Multi-column actuarial exhibits | ✅ Full |
-| Scanned/image PDFs | ⚠️ Partial (add pytesseract for OCR) |
-| Password-protected PDFs | ❌ Not supported |
-
 ---
 
 ## Output
