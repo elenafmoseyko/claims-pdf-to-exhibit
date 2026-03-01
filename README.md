@@ -1,5 +1,4 @@
-A Document AI pipeline that reads PDF medical claims / EOB reports and outputs
-structured Excel exhibits, JSON data, and narrative summaries.
+A Document AI pipeline that extracts structured claims data from PDF reports and outputs formatted Excel exhibits, and JSON data.
 
 ---
 
