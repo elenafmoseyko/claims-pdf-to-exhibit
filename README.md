@@ -1,5 +1,5 @@
 A Document AI pipeline that reads PDF medical claims / EOB reports and outputs
-structured Excel exhibits, JSON data, and narrative summaries — using Claude.
+structured Excel exhibits, JSON data, and narrative summaries.
 
 ---
 
